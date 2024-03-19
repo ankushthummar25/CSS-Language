@@ -1,0 +1,26 @@
+div{
+    border: 1px solid;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 25px;
+    padding-right: 10px;
+    border-radius: 25px;
+    background-position-x: 10px ;
+    background-position-y: 10px ;
+    width: 350px;
+    background-color:azure;
+    color:darkblue;
+}
+
+#button{
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    width: 200px;
+    border: 1px solid;
+    border-radius: 10px;
+    background-color:orangered;
+    color: cornsilk;
+}
+
